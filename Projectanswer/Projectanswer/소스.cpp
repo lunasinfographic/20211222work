@@ -16,6 +16,7 @@ int main()
 
 	Area = static_cast<float>(height) * static_cast<float>(base) / 2.0f;
 
+	cout << "¾È³çÇÏ¼¼¿ä" << endl;
 	cout << Area << endl;
 
 	return 0;
